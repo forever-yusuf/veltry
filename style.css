@@ -1,0 +1,332 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+header{
+    background: url(img/mountain\ 4.jpg) center/cover;
+    height:600px;
+    position: relative;
+}
+.fa-magnifying-glass{
+    font-size: 35px;
+    margin-top: 25px;
+}
+.fa-truck{
+    margin-top: 25px;
+    font-size: 35px;
+}
+.header_top_text h1{
+    text-align: center;
+    justify-content: center;
+    margin-left: 90px;
+    font-size: 80px;
+}
+.header_last_middle{
+    position:absolute;
+    right: 0;
+    top: 50%;
+    width: 600px;
+    height:600px;
+}
+.header_last_medium{
+    position: absolute;
+    right: 30%;
+    top: 49%;
+}
+.header_last h2{
+    font-weight: bold;
+    margin-top: 0px;
+    font-size: 40px;
+}
+.header_last p{
+    
+}
+.text_official{
+    font-size: 60px;
+}
+.header_for{
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    font-size: 110px;
+}
+.header_find{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.header_text a{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    list-style: none;
+    text-decoration: none;
+}
+.header_last button{
+    width: 200px;
+    height: 55px;
+    border: none;
+    color: white;
+    background: rgb(2, 179, 255);
+    margin-bottom: 50px;
+}
+.main_top{
+    position: relative;
+}
+.main_menu h2{
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+
+}
+.text{
+    display: flex;
+}
+.page{
+    margin-top: 50px;
+   margin-right: 500px;
+    font-size: 25px;
+    color: aqua;
+}
+
+.main_menu p{
+    width: 500px;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 420px;
+}
+.lorem{
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.lorem2{
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.lorem3{
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.picture{
+    width: 600px;
+    margin-left: -200px;
+    margin-top: 50px;
+    height: 350px;
+}
+.pack img{
+    margin-left: 20px;
+}
+.first_img{
+    height: 400px;
+}
+.pack h5{
+    margin-left: 90px;
+}
+.pack2 img{
+    margin-left: 30px;
+}
+.pack2 h5{
+    margin-left: 130px;
+}
+.pack3 img{
+    margin-left: 20px;
+}
+.pack3 h5{
+    margin-left: 130px;
+}
+.main_menu{
+    margin-left: 120px;
+}
+.main_main{
+    margin-left: 120px;
+}
+.rasm{
+    margin-top: 100px;
+}
+.our{
+    text-align: center;
+    justify-content: center;
+    margin-top: 120px;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.lor{
+    margin-left: 420px;
+    margin-top: 20px;
+}
+.hfive{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    color: aqua;
+    font-size: 25px;
+}
+.margin{
+    width: 350px;
+    margin-top: 50px;
+}
+.margin2{
+    width: 350px;
+    margin-top: 50px;
+}
+.margin3{
+    margin-top: 90px;
+    width: 350px;
+}
+.button{
+    height: 40px;
+    width: 180px;
+    color: aliceblue;
+    background: aqua;
+    margin-left: 500px;
+    margin-top: 50px;
+    border: none;
+    border-radius :10px;
+}
+.button2{
+    height: 40px;
+    width: 180px;
+    color: aliceblue;
+    background: aqua;
+    margin-left: 630px;
+    margin-top: 50px;
+    border: none;
+    border-radius :10px;
+}
+.main_last h2{
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+.main_last p{
+    margin-left: 420px;
+    margin-top: 20px;
+}
+.sa_nat{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 150px;
+}
+.sa_nat2{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 540px;
+}
+.orqaga{
+    margin-left: -500px;
+}
+.main_last_first p{
+    width: 320px;
+}
+.cameralar{
+    margin-top: 40px;
+}
+.htwo{
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 50px;
+}
+.lens{
+    width: 1300px;
+    margin-top: 50px;
+}
+.p{
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.section_plus h5{
+    width: 490px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.section_plus2 h5{
+    width: 490px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.scope{
+    margin-left: 130px;
+}
+.scope2{
+    margin-left: 290px;
+}
+.zur{
+    margin-top: 100px;
+}
+.zurku{
+    margin-top: 25px;
+    text-align: center;
+}
+.section_main{
+    background: url(img/mountaing\ image_.jpg) center/cover;
+    height: 900px;
+    max-width: 1200px;
+    width: 100%;
+}
+.section_lastOne h2{
+    color: white;
+    font-size: 40px;
+    margin-top: 300px;
+}
+.section_mian_last{
+    margin-left: 50px;
+}
+.section_mian_last h2{
+    margin-left:20px;
+    font-size: 50px;
+    color: aliceblue;
+    margin-top: 270px;
+}
+.section_last_h1{
+    font-size: 50px;
+    margin-left : 20px;
+    margin-top: 20px;
+    color: aliceblue;
+}
+.section_button1{
+    margin-left : 20px;
+    margin-top: 20px;
+    background: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+}
+.section_button{
+    width: 150px;
+    margin-left: 15px;
+    height: 50px;
+    background: aqua;
+    border-radius:20px;
+    border: none;
+}
+.lorem_ipsum{
+    color: aliceblue;
+    margin-left: 20px;
+}
+.button_header{
+    border-radius: 12px;
+}
+.travels{
+    width: 700px;
+    height: 500px;
+}
+.margin_flex{
+    margin-left: 100px;
+}
+.pa{
+    font-weight: bold;
+}
+.footer_page{
+    padding:  50px;
+}
